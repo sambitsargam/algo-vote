@@ -22,7 +22,7 @@ We made this application using vue as a frontend and pyteal as our backend.
 
 ## Accomplishments that we're proud of
 * My first Dapp in the Algorand Blockchain.
-* It's takes more than 30hours but finally it's over you can try[link](https://algo-voting.vercel.app/)
+* It's takes more than 30hours but finally it's over you can try[link](https://algovote.vercel.app/)
 
 ## What's next for ALGO VOTING
 We are adding Some more feature soon.
